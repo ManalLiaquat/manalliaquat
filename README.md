@@ -1,6 +1,6 @@
 
 ## Hi all, I'm Manal 👋
-A passionate Software Developer  ![🚀](https://twemoji.maxcdn.com/2/12x12/1f680.png)  having an experience of building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks.
+A passionate Software Developer :rocket: having an experience of building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks.
 
 |IDs| Link |
 |--|--|
