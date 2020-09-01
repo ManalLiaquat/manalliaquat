@@ -15,6 +15,10 @@
     <a href="https://www.google.com/search?q=manal+liaquat"><img alt="Google Search" src="https://img.shields.io/badge/-Google Me-4285F4?style=social&logo=google&logoColor=4285F4" /></a>
 </p>
 
+<h2>My Articles <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/></h2> 
+<p>1. <a href="https://medium.com/@m.manalliaquat/why-i-choose-react-ab215dffdb79">Why I choose React?</a></p>
+<p>2. <a href="https://medium.com/swlh/cra-to-pwa-1e572207d7">CRA to PWA</a></p>
+
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="30"/></h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
