@@ -51,6 +51,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
 
+<div>
+    <img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalliaquat"/>
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=manalliaquat&count_private=true&theme=radical&include_all_commits=true"/>
+    
+</div>
+
 
 <!--
 **ManalLiaquat/manalliaquat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
