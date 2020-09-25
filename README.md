@@ -19,6 +19,10 @@
 <p>1. <a href="https://medium.com/@m.manalliaquat/why-i-choose-react-ab215dffdb79">Why I choose React?</a></p>
 <p>2. <a href="https://medium.com/swlh/cra-to-pwa-1e572207d7">CRA to PWA</a></p>
 
+<div>
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=manalliaquat&count_private=true&theme=radical&include_all_commits=true"/>
+</div>
+
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="30"/></h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -51,17 +55,11 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
 
-<div>
-    <img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalliaquat"/>
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=manalliaquat&count_private=true&theme=radical&include_all_commits=true"/>
-    
-</div>
-
 
 <!--
 **ManalLiaquat/manalliaquat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi all, I'm Manal 👋
-
+<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalliaquat"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
