@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/manal.liaquat"><img alt="Instagram" src="https://img.shields.io/badge/-Don't forget to like 😅-E4405F?style=social&logo=instagram" /></a>
     <a href="https://www.freecodecamp.org/manalliaquat"><img alt="Free Code Camp" src="https://img.shields.io/badge/-Free Code Camp-0A0A23?style=social&logo=freecodecamp&logoColor=0A0A23" /></a>
     <a href="https://codepen.io/ManalLiaquat"><img alt="CodePen" src="https://img.shields.io/badge/-CodePen-0A0A23?style=social&logo=codepen&logoColor=0A0A23"  /></a>
-    <a href="https://www.upwork.com/freelancers/~011eeb07ae223b2fed"><img alt="Upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=social&logo=upwork&logoColor=6FDA44" /></a>
+<!--     <a href="https://www.upwork.com/freelancers/~011eeb07ae223b2fed"><img alt="Upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=social&logo=upwork&logoColor=6FDA44" /></a> -->
     <a href="https://medium.com/@m.manalliaquat"><img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=social&logo=medium&logoColor=12100E" /></a>
     <a href="https://www.google.com/search?q=manal+liaquat"><img alt="Google Search" src="https://img.shields.io/badge/-Google Me-4285F4?style=social&logo=google&logoColor=4285F4" /></a>
     <a href="https://dev.to/manalliaquat"><img alt="Google Search" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="30px" height="30px" /></a>
