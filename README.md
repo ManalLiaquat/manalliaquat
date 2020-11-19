@@ -22,7 +22,7 @@
 <p>2. <a href="https://medium.com/swlh/cra-to-pwa-1e572207d7">CRA to PWA</a></p>
 
 <div>
-    <table>
+    <table border="0">
         <tr>
             <td>
                 <a href="https://stackoverflow.com/users/12815456/manal-liaquat"><img src="https://github-readme-stackoverflow.vercel.app/?userID=12815456&theme=dark" /></a>
