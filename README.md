@@ -14,6 +14,7 @@
     <a href="https://medium.com/@m.manalliaquat"><img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=social&logo=medium&logoColor=12100E" /></a>
     <a href="https://www.google.com/search?q=manal+liaquat"><img alt="Google Search" src="https://img.shields.io/badge/-Google Me-4285F4?style=social&logo=google&logoColor=4285F4" /></a>
     <a href="https://dev.to/manalliaquat"><img alt="Google Search" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="30px" height="30px" /></a>
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 <h2>My Articles <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/></h2> 
@@ -21,7 +22,16 @@
 <p>2. <a href="https://medium.com/swlh/cra-to-pwa-1e572207d7">CRA to PWA</a></p>
 
 <div>
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=manalliaquat&count_private=true&theme=radical&include_all_commits=true"/>
+    <table>
+        <tr>
+            <td>
+                <a href="https://stackoverflow.com/users/12815456/manal-liaquat"><img src="https://github-readme-stackoverflow.vercel.app/?userID=12815456&theme=dark" /></a>
+            </td>
+            <td>
+                <a href="https://www.github.com/manalliaquat"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=manalliaquat&count_private=true&theme=radical&include_all_commits=true"/></a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="30"/></h3>
