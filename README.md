@@ -56,6 +56,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
 
+<hr />
+<a href="https://www.buymeacoffee.com/manalliaquat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a>
 
 <!--
 **ManalLiaquat/manalliaquat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
