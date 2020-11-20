@@ -14,7 +14,9 @@
     <a href="https://medium.com/@m.manalliaquat"><img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=social&logo=medium&logoColor=12100E" /></a>
     <a href="https://www.google.com/search?q=manal+liaquat"><img alt="Google Search" src="https://img.shields.io/badge/-Google Me-4285F4?style=social&logo=google&logoColor=4285F4" /></a>
     <a href="https://dev.to/manalliaquat"><img alt="Google Search" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="30px" height="30px" /></a>
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <div>
+        <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </div>
 </p>
 
 <h2>My Articles <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/></h2> 
