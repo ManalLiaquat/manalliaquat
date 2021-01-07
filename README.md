@@ -14,9 +14,9 @@
     <a href="https://medium.com/@m.manalliaquat"><img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=social&logo=medium&logoColor=12100E" /></a>
     <a href="https://www.google.com/search?q=manal+liaquat"><img alt="Google Search" src="https://img.shields.io/badge/-Google Me-4285F4?style=social&logo=google&logoColor=4285F4" /></a>
     <a href="https://dev.to/manalliaquat"><img alt="Google Search" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="30px" height="30px" /></a>
-    <div>
+    <a href="https://www.github.com/manalliaquat">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-    </div>
+    </a>
 </p>
 
 <h2>My Articles <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/></h2> 
@@ -37,7 +37,7 @@
 </div>
 
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="30"/></h3>
-<p>
+<a href="https://www.github.com/manalliaquat">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> 
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -66,7 +66,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
-</p>
+</a>
 
 <hr />
 <a href="https://www.buymeacoffee.com/manalliaquat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a>
