@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, hope you're good.</h1>
 
-<p>Welcome to my GitHub profile! </br> I'm Manal, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197606.svg" width="13"/> <b>Karachi, Pakistan</b>.</p>
+<p>Welcome to my GitHub profile! </br> I'm Manal, Fullstack developer from <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/> <b>Karachi, Pakistan</b>.</p>
 <p>A passionate Application Developer :rocket: having an experience of building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks. 😊</p>
 
 <p>
