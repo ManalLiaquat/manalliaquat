@@ -67,7 +67,7 @@ Full stack JavaScript engineer with **7+ years** building web and mobile applica
 ---
 
 ### 🤝 Let's Collaborate
-I am currently open to high-growth opportunities, technical consultations, and open-source collaborations.
+I am currently open to open-source collaborations.
 
 - 💬 **Ask me about:** Node.js API design, Firebase & Google Cloud, ads platform integrations, AI/LLM features, React performance and mobile UX.
 - 📫 **Contact:** reach out on [LinkedIn](https://www.linkedin.com/in/manalliaquat/) or by [email](mailto:m.manalliaquat@gmail.com) for a quick response.
